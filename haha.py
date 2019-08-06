@@ -53,4 +53,6 @@ origin  update 1
 本地也继续进行测试rebase相关
 
 86本地测试git commit -amend  加数据
+本地忘了加东西了，amend上
+
 
