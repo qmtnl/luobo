@@ -52,3 +52,5 @@ origin  update 1
 726本地修改之前的     *****本地特色888
 本地也继续进行测试rebase相关
 
+86本地测试git commit -amend  加数据
+
