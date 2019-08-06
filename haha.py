@@ -54,5 +54,7 @@ origin  update 1
 
 86本地测试git commit -amend  加数据
 本地忘了加东西了，amend上
+再测一遍commit后未push的
+改加  amned    
 
 
