@@ -56,5 +56,5 @@ origin  update 1
 本地忘了加东西了，amend上
 再测一遍commit后未push的
 改加  amned    
-
+86第三次测试amend（先push的情况下）
 
